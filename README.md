@@ -4,13 +4,12 @@ This project focuses on the data cleaning and quality assurance (QA) of a mental
 Project Overview
 
 I verified 2,000 records for data integrity, focusing on duplicate removal, missing value checks, and outlier detection using the IQR method.
-Key Findings
 
-    Data Integrity: 0 duplicates and 0 missing values identified.
+Key Findings:
 
-    Normalization: Categorical values (Gender, Occupation) were verified and confirmed as already normalized.
-
-    Outliers: 0 outliers found; all data points for Sleep Hours, Screen Time, and Stress Levels fall within realistic behavioral ranges.
+Data Integrity: 0 duplicates and 0 missing values identified.
+Normalization: Categorical values (Gender, Occupation) were verified and confirmed as already normalized.
+Outliers: 0 outliers found; all data points for Sleep Hours, Screen Time, and Stress Levels fall within realistic behavioral ranges.
 
 Conclusion
 
