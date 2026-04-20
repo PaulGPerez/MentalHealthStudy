@@ -1,5 +1,7 @@
 Mental Health Data Study
 
+I would recommend that you view the Microsoft Word versions as they are carefully structured in an outline format instead of the PDF where you have to scroll down multiple pages. 
+
 This project focuses on the data cleaning and quality assurance (QA) of a mental health survey dataset.
 Project Overview
 
