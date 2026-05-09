@@ -1,5 +1,9 @@
 Mental Health & Lifestyle Data StudyThis project focuses on auditing and analyzing 2,000 survey records to see how lifestyle affects mental health.
 
+You cant find the dataset here on Kaggle: 
+
+https://www.kaggle.com/datasets/jajidhasan/mental-health
+
 Important: How to View Documentation 
 Please open the Microsoft Word versions of the documentation instead of the PDFs. 
 The Word files are structured in an outline format, which makes the project much easier to read and navigate.
